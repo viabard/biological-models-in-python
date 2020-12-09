@@ -1,0 +1,330 @@
+LOCUS       NM_000518                626 bp    mRNA    linear   PRI 26-FEB-2012
+DEFINITION  Homo sapiens hemoglobin, beta (HBB), mRNA.
+ACCESSION   NM_000518
+VERSION     NM_000518.4  GI:28302128
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 626)
+  AUTHORS   Cyrklaff,M., Sanchez,C.P., Kilian,N., Bisseye,C., Simpore,J.,
+            Frischknecht,F. and Lanzer,M.
+  TITLE     Hemoglobins S and C interfere with actin remodeling in Plasmodium
+            falciparum-infected erythrocytes
+  JOURNAL   Science 334 (6060), 1283-1286 (2011)
+   PUBMED   22075726
+  REMARK    GeneRIF: hemoglobins S and C affected trafficking system that
+            directs Plasmodium falciparum-encoded proteins to the surface of
+            infected erythrocytes; actin cytoskeleton and Maurer's clefts were
+            aberrant in erythrocytes containing hemoglobin S or C
+REFERENCE   2  (bases 1 to 626)
+  AUTHORS   Zou,J., Mali,P., Huang,X., Dowey,S.N. and Cheng,L.
+  TITLE     Site-specific gene correction of a point mutation in human iPS
+            cells derived from an adult patient with sickle cell disease
+  JOURNAL   Blood 118 (17), 4599-4608 (2011)
+   PUBMED   21881051
+  REMARK    GeneRIF: A new strategy for gene therapy of monogenic diseases
+            using patient-specific iPSCs, even if the underlying
+            disease-causing mutation is not expressed in iPSCs.
+REFERENCE   3  (bases 1 to 626)
+  AUTHORS   Woo,A.J., Kim,J., Xu,J., Huang,H. and Cantor,A.B.
+  TITLE     Role of ZBP-89 in human globin gene regulation and erythroid
+            differentiation
+  JOURNAL   Blood 118 (13), 3684-3693 (2011)
+   PUBMED   21828133
+  REMARK    GeneRIF: An activating role for ZBP-89 in human globin gene
+            regulation and erythroid differentiation.
+REFERENCE   4  (bases 1 to 626)
+  AUTHORS   Alanazi,M., Abduljaleel,Z., Khan,W., Warsy,A.S., Elrobh,M.,
+            Khan,Z., Al Amri,A. and Bazzi,M.D.
+  TITLE     In silico analysis of single nucleotide polymorphism (SNPs) in
+            human beta-globin gene
+  JOURNAL   PLoS ONE 6 (10), E25876 (2011)
+   PUBMED   22028795
+  REMARK    GeneRIF: the genetic variations that can alter the expression and
+            function of the HBB gene
+REFERENCE   5  (bases 1 to 626)
+  AUTHORS   Liu,W., Baker,S.S., Baker,R.D., Nowak,N.J. and Zhu,L.
+  TITLE     Upregulation of hemoglobin expression by oxidative stress in
+            hepatocytes and its implication in nonalcoholic steatohepatitis
+  JOURNAL   PLoS ONE 6 (9), E24363 (2011)
+   PUBMED   21931690
+  REMARK    GeneRIF: Hemoglobin is expressed by hepatocytes and oxidative
+            stress upregulates its expression.
+REFERENCE   6  (bases 1 to 626)
+  AUTHORS   Adams,J.G., Steinberg,M.H., Boxer,L.A., Baehner,R.L., Forget,B.G.
+            and Tsistrakis,G.A.
+  TITLE     The structure of hemoglobin Indianapolis [beta112(G14) arginine].
+            An unstable variant detectable only by isotopic labeling
+  JOURNAL   J. Biol. Chem. 254 (9), 3479-3482 (1979)
+   PUBMED   429365
+REFERENCE   7  (bases 1 to 626)
+  AUTHORS   Moo-Penn,W.F., Wolff,J.A., Simon,G., Vacek,M., Jue,D.L. and
+            Johnson,M.H.
+  TITLE     Hemoglobin Presbyterian: beta108 (G10) asparagine leads to lysine,
+            A hemoglobin variant with low oxygen affinity
+  JOURNAL   FEBS Lett. 92 (1), 53-56 (1978)
+   PUBMED   668922
+REFERENCE   8  (bases 1 to 626)
+  AUTHORS   Bunn,H.F., Gabbay,K.H. and Gallop,P.M.
+  TITLE     The glycosylation of hemoglobin: relevance to diabetes mellitus
+  JOURNAL   Science 200 (4337), 21-27 (1978)
+   PUBMED   635569
+REFERENCE   9  (bases 1 to 626)
+  AUTHORS   Marotta,C.A., Wilson,J.T., Forget,B.G. and Weissman,S.M.
+  TITLE     Human beta-globin messenger RNA. III. Nucleotide sequences derived
+            from complementary DNA
+  JOURNAL   J. Biol. Chem. 252 (14), 5040-5053 (1977)
+   PUBMED   68958
+REFERENCE   10 (bases 1 to 626)
+  AUTHORS   Proudfoot,N.J.
+  TITLE     Complete 3' noncoding region sequences of rabbit and human
+            beta-globin messenger RNAs
+  JOURNAL   Cell 10 (4), 559-570 (1977)
+   PUBMED   67897
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from L48217.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Feb 11, 2003 this sequence version replaced gi:13788565.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            Summary: The alpha (HBA) and beta (HBB) loci determine the
+            structure of the 2 types of polypeptide chains in adult hemoglobin,
+            Hb A. The normal adult hemoglobin tetramer consists of two alpha
+            chains and two beta chains. Mutant beta globin causes sickle cell
+            anemia. Absence of beta chain causes beta-zero-thalassemia. Reduced
+            amounts of detectable beta globin causes beta-plus-thalassemia. The
+            order of the genes in the beta-globin cluster is 5'-epsilon --
+            gamma-G -- gamma-A -- delta -- beta--3'. [provided by RefSeq, Jul
+            2008].
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..626
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15.5"
+     gene            1..626
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:4827"
+                     /db_xref="HPRD:00786"
+                     /db_xref="MIM:141900"
+     exon            1..142
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /inference="alignment:Splign"
+                     /number=1
+     STS             2..329
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC104188P1"
+                     /db_xref="UniSTS:270104"
+     STS             7..126
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC115301P1"
+                     /db_xref="UniSTS:270300"
+     STS             14..189
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="GDB:178694"
+                     /db_xref="UniSTS:155040"
+     STS             14..123
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC110379P1"
+                     /db_xref="UniSTS:270188"
+     misc_feature    30..32
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /note="upstream in-frame stop codon"
+     STS             31..123
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC99844P2"
+                     /db_xref="UniSTS:273688"
+     STS             33..115
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC114582P1"
+                     /db_xref="UniSTS:270273"
+     CDS             51..494
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /note="beta globin chain; hemoglobin beta chain"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_000509.1"
+                     /db_xref="GI:4504349"
+                     /db_xref="CCDS:CCDS7753.1"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:4827"
+                     /db_xref="HPRD:00786"
+                     /db_xref="MIM:141900"
+                     /translation="MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPE
+                     NFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylalanine, in variant Raleigh; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); acetylation site"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-pyruvate 2-iminyl-valine, in Hb A1b; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); modified site"
+     misc_feature    228..230
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated; propagated from UniProtKB/Swiss-Prot
+                     (P68871.2); other site"
+     misc_feature    297..299
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated; propagated from UniProtKB/Swiss-Prot
+                     (P68871.2); other site"
+     misc_feature    330..332
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S-nitrosocysteine; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); nitrosylation site"
+     misc_feature    336..338
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated; propagated from UniProtKB/Swiss-Prot
+                     (P68871.2); other site"
+     misc_feature    441..443
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); phosphorylation site"
+     misc_feature    474..476
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Susceptible to oxidation, associated with variant
+                     Atlanta, variant non-spherocytic haemolytic anemia and
+                     variant Christchurch; propagated from UniProtKB/Swiss-Prot
+                     (P68871.2); other site"
+     misc_feature    483..485
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Aspirin-acetylated lysine; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     STS             66..331
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC86017P3"
+                     /db_xref="UniSTS:273506"
+     STS             101..217
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="REN97351"
+                     /db_xref="UniSTS:422149"
+     STS             105..218
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="REN97385"
+                     /db_xref="UniSTS:422183"
+     STS             111..220
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="D11F194S1E"
+                     /db_xref="UniSTS:58277"
+     exon            143..365
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /inference="alignment:Splign"
+                     /number=2
+     STS             158..258
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC102046P2"
+                     /db_xref="UniSTS:270067"
+     STS             191..298
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC133721P1"
+                     /db_xref="UniSTS:270640"
+     STS             200..339
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="RH69634"
+                     /db_xref="UniSTS:50848"
+     STS             291..348
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="Hbb-b1"
+                     /db_xref="UniSTS:499134"
+     exon            366..626
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /inference="alignment:Splign"
+                     /number=3
+     STS             428..565
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="STS-L48931"
+                     /db_xref="UniSTS:16426"
+     STS             437..586
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC120089P1"
+                     /db_xref="UniSTS:270378"
+     STS             446..591
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="RH41842"
+                     /db_xref="UniSTS:41617"
+     STS             495..626
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+                     /standard_name="PMC87307P1"
+                     /db_xref="UniSTS:273594"
+     polyA_signal    602..607
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+     polyA_site      626
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C"
+ORIGIN      
+        1 acatttgctt ctgacacaac tgtgttcact agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagtct gccgttactg ccctgtgggg caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggctgctgg tggtctaccc ttggacccag aggttctttg
+      181 agtcctttgg ggatctgtcc actcctgatg ctgttatggg caaccctaag gtgaaggctc
+      241 atggcaagaa agtgctcggt gcctttagtg atggcctggc tcacctggac aacctcaagg
+      301 gcacctttgc cacactgagt gagctgcact gtgacaagct gcacgtggat cctgagaact
+      361 tcaggctcct gggcaacgtg ctggtctgtg tgctggccca tcactttggc aaagaattca
+      421 ccccaccagt gcaggctgcc tatcagaaag tggtggctgg tgtggctaat gccctggccc
+      481 acaagtatca ctaagctcgc tttcttgctg tccaatttct attaaaggtt cctttgttcc
+      541 ctaagtccaa ctactaaact gggggatatt atgaagggcc ttgagcatct ggattctgcc
+      601 taataaaaaa catttatttt cattgc
+//
+

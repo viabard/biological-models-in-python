@@ -1,0 +1,14 @@
+S = 133
+D = 54
+p = 0.2887700534759358
+K' = 0.3646323663685024
+
+Brute Force: Largest Log-Likelihood = -112.39573878386673 || K = 0.36463199999999996
+
+Scipy minimize_scalar Output for Negative Log-Likelihood: 
+     fun: 112.39573878384556
+ message: 'Solution found.'
+    nfev: 11
+  status: 0
+ success: True
+       x: 0.3646322605653593

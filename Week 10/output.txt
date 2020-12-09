@@ -1,0 +1,24 @@
+
+Is Threading:False
+Is Joining After:False
+
+File Name: Myotis_aligned_small.fasta
+Number of seq records: 5.
+Total sequence lengths: 5665.
+
+
+File Name: opuntia.fasta
+Number of seq records: 7.
+Total sequence lengths: 6278.
+
+
+File Name: porcelaincrab_aligned.fasta
+Number of seq records: 7.
+Total sequence lengths: 3145.
+
+
+File Name: pyrus.fasta
+Number of seq records: 16.
+Total sequence lengths: 8836.
+
+Time taken: 0.9710159301757812

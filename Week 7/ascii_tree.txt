@@ -1,0 +1,31 @@
+Ascii tree:
+
+  __ Gobiocypris_rarus
+ |
+ |_ Danio_rerio
+_|
+ |        ____________ Oryzias_latipes
+ |       |
+ |       |          _________________________________ Marsupenaeus_japonicus
+ |_______|     ____|
+         |    |    |   ______________________ Drosophila_melanogaster
+         |    |    |__|
+         |    |       |__________________ Bombyx_mori
+         |____|
+              |      __ Mouse_p53
+              |     |
+              |     |  , Cricetulus_griseus
+              |_____| _|
+                    || | Microtus_ochrogaster
+                    ||
+                    ||   _ Canis_lupus
+                     |  |
+                     |  |  , Homo_sapiens
+                     |__| _|
+                        || |, Macaca_mulatta
+                        || ||
+                        ||  | Macaca_fascicularis
+                         |
+                         , Delphinapterus_leucas
+                         |
+                         |_ Bubalus_bubalis

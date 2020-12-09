@@ -1,0 +1,57 @@
+id: Gobiocypris_rarus:0.21006925 | external/internal (T/F): True | ancestor: None
+
+id: Danio_rerio:0.19189371 | external/internal (T/F): True | ancestor: None
+
+id: (Oryzias_latipes:0.84723170,((Marsupenaeus_japonicus:2.13937634,(Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451)0.928000:0.36496209,(Mouse_p53:0.19658049,((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152)0.996000:0.41153571)0.968000:0.32073821)1.000000:0.53332303 | external/internal (T/F): False | ancestor: None
+
+id: Oryzias_latipes:0.84723170 | external/internal (T/F): True | ancestor: (Oryzias_latipes:0.84723170,((Marsupenaeus_japonicus:2.13937634,(Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451)0.928000:0.36496209,(Mouse_p53:0.19658049,((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152)0.996000:0.41153571)0.968000:0.32073821)1.000000:0.53332303
+
+id: ((Marsupenaeus_japonicus:2.13937634,(Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451)0.928000:0.36496209,(Mouse_p53:0.19658049,((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152)0.996000:0.41153571)0.968000:0.32073821 | external/internal (T/F): False | ancestor: (Oryzias_latipes:0.84723170,((Marsupenaeus_japonicus:2.13937634,(Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451)0.928000:0.36496209,(Mouse_p53:0.19658049,((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152)0.996000:0.41153571)0.968000:0.32073821)1.000000:0.53332303
+
+id: (Marsupenaeus_japonicus:2.13937634,(Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451)0.928000:0.36496209 | external/internal (T/F): False | ancestor: ((Marsupenaeus_japonicus:2.13937634,(Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451)0.928000:0.36496209,(Mouse_p53:0.19658049,((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152)0.996000:0.41153571)0.968000:0.32073821
+
+id: (Mouse_p53:0.19658049,((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152)0.996000:0.41153571 | external/internal (T/F): False | ancestor: ((Marsupenaeus_japonicus:2.13937634,(Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451)0.928000:0.36496209,(Mouse_p53:0.19658049,((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152)0.996000:0.41153571)0.968000:0.32073821
+
+id: Marsupenaeus_japonicus:2.13937634 | external/internal (T/F): True | ancestor: (Marsupenaeus_japonicus:2.13937634,(Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451)0.928000:0.36496209
+
+id: (Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451 | external/internal (T/F): False | ancestor: (Marsupenaeus_japonicus:2.13937634,(Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451)0.928000:0.36496209
+
+id: Mouse_p53:0.19658049 | external/internal (T/F): True | ancestor: (Mouse_p53:0.19658049,((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152)0.996000:0.41153571
+
+id: ((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152 | external/internal (T/F): False | ancestor: (Mouse_p53:0.19658049,((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152)0.996000:0.41153571
+
+id: Drosophila_melanogaster:1.50486951 | external/internal (T/F): True | ancestor: (Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451
+
+id: Bombyx_mori:1.21941407 | external/internal (T/F): True | ancestor: (Drosophila_melanogaster:1.50486951,Bombyx_mori:1.21941407)0.533000:0.17840451
+
+id: (Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202 | external/internal (T/F): False | ancestor: ((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152
+
+id: (Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924 | external/internal (T/F): False | ancestor: ((Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202,(Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924)0.041000:0.05880152
+
+id: Cricetulus_griseus:0.10016937 | external/internal (T/F): True | ancestor: (Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202
+
+id: Microtus_ochrogaster:0.07571016 | external/internal (T/F): True | ancestor: (Cricetulus_griseus:0.10016937,Microtus_ochrogaster:0.07571016)0.999000:0.11975202
+
+id: Canis_lupus:0.13043219 | external/internal (T/F): True | ancestor: (Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924
+
+id: ((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516 | external/internal (T/F): False | ancestor: (Canis_lupus:0.13043219,((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516)1.000000:0.18216924
+
+id: (Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018 | external/internal (T/F): False | ancestor: ((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516
+
+id: (Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226 | external/internal (T/F): False | ancestor: ((Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018,(Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226)0.887000:0.05289516
+
+id: Homo_sapiens:0.03963178 | external/internal (T/F): True | ancestor: (Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018
+
+id: (Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087 | external/internal (T/F): False | ancestor: (Homo_sapiens:0.03963178,(Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087)1.000000:0.18106018
+
+id: Delphinapterus_leucas:0.02961825 | external/internal (T/F): True | ancestor: (Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226
+
+id: Bubalus_bubalis:0.10883105 | external/internal (T/F): True | ancestor: (Delphinapterus_leucas:0.02961825,Bubalus_bubalis:0.10883105)0.981000:0.03566226
+
+id: Macaca_mulatta:0.00000012 | external/internal (T/F): True | ancestor: (Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087
+
+id: Macaca_fascicularis:0.00304606 | external/internal (T/F): True | ancestor: (Macaca_mulatta:0.00000012,Macaca_fascicularis:0.00304606)0.985000:0.02428087
+
+External Nodes: 15
+Internal Nodes: 12
+Total Nodes: 27

@@ -1,0 +1,4 @@
+Threading and Joining After: 0.014003753662109375 seconds
+Threading and Joining 1 by 1: 0.012004852294921875 seconds
+Multiprocessing and Joining After: 0.2760615348815918 seconds
+Multiprocessing and Joining 1 by 1: 0.9444477558135986 seconds

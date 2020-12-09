@@ -1,0 +1,988 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 --------------------------------------------------
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            --------------------------------------------------
+Danio_rerio                  --------------------------------------------------
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       GAGTCGGGTCTCAGACTTGGAAGTGAGAGGTTATCTAGTGACGCGCGCCT
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 --------------------------------------------------
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         ------------------------------------------------CG
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            --------------------------------------------------
+Danio_rerio                  --------------------------------------------------
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       TGCCTACCTATGGAAACGTGTTTGTGTCGTGAGCTACTTGGACATACATG
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 --------------------------------------------------
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         CGGGGGTTGCTGGGATAGGGACTTTCCCCTCCCATGTGGCCGAACCAAAA
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            --------------------------------------------------
+Danio_rerio                  --------------------------------------------------
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       CAACGCCCTAAAATAATGAGCTATTTATGCAGCAAGGCGGGATGCAGCGG
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 --------------------------------------------------
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           ---------------------------------------------TTGGG
+Microtus_ochrogaster         AGTTTTGTGCTAGTCCACTGCCACAATTCTGGCTGCAGGTAGCTTTGGGG
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            ------------------------------------------------GG
+Danio_rerio                  --------------------------------------------------
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       TCGGATTCAGAGCTGCTGTTCGGTGAGGATGAGTACCACCTGCTCAGGGA
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 ---------------------------------------CGTGCTTTC-C
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           ATCAGGGGGCACCTGGGATCCGGGTCCGGAATCTACTTCCCAGC-GGG-T
+Microtus_ochrogaster         ACCACGGGGCACCTAGCATCCGAATCCGGAATCCACTTTCCAGCAGGG-T
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    -----------------------------------------AGGCCCT-C
+Gobiocypris_rarus            GTGACGTAAGCAGACTCCTCCTTATGGGGAATCCCCACAAACTCCACG-C
+Danio_rerio                  ---------------CTGTAACTA-GGGGAATCCCCA-AAACTCCACG-C
+Oryzias_latipes              ------------------------------------------CGTGTT-C
+Bombyx_mori                  --------------ATTAAATTAATTGAGAGTGTATGAACGACCTGTAAT
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       TGACTCTCTCCTGCAACGCTTTGGCTCGGCCAATTTCCATACCCTGTTGG
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 ACGACGGTGACACGCTTCCCTGGATTGGCCAGACT-GCCTTCCGGGTCAC
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           AACACGCTCCCCCCTGAAGACCTGAAGCCTGGCT--GACTTCTTGGGTGC
+Microtus_ochrogaster         GACACGCTTCCC--TGAAGACCCGAAGCCTGACTT-GACTTCTTGGGTGC
+Canis_lupus                  -----GCTCCCC--TGAGGTTCGGCACCCACACT--CCCTTCCCAGGAGC
+Mouse_p53                    ATCCTCCTCCTTCCCAGCAGGGTGTCACGCTTCTC-CGAAGACTGGATGA
+Gobiocypris_rarus            GTGGATTTTGCTTTGGGTTTGCAAGAAACATACTT-TTTTGTTGTGTTGT
+Danio_rerio                  G-GATTTGCTTTGTGGATGTCCAATAACCTCCTTG-TTTTGGT-CATTCT
+Oryzias_latipes              GACGCTGCAGTCGCCGATTCAAAATATTTTGGCT--TTTGGCTTTTTTGA
+Bombyx_mori                  AATAACTTTTAGTCTAAGTTACGGTATCCTTGCTGAATTGGAGATAGTGA
+Drosophila_melanogaster      ---------------AAAATCCAAATAGTCGGTGGCCACTACGATTCTGT
+Marsupenaeus_japonicus       ACGGCCCAGATGTTGAACCTCCTGTAACCGAGCAGGAAGTTGAAGACCAG
+                                                                               
+
+Macaca_fascicularis          -----ATGGAGGAGCCG---CAGTCAGATCCTAGCATCGAGCCCCCTCTG
+Macaca_mulatta               -----ATGGAGGAGCCG---CAGTCAGATCCTAGCATCGAGCCCCCTCTG
+Homo_sapiens                 T-GCCATGGAGGAGCCG---CAGTCAGATCCTAGCGTCGAGCCCCCTCTG
+Delphinapterus_leucas        -----ATGGAGGAGTCG---CAGGCAGAACTCGGCGTGGAGCCCCCTCTG
+Bubalus_bubalis              -----ATGGAAGAATCA---CAGGCAGAACTCAATGTGGAGCCCCCTCTG
+Cricetulus_griseus           T-GCCATGGAGGAGCCA---CAGTCAGACCTCAGCATCGAGCTCCCTCTG
+Microtus_ochrogaster         T-TCAATGGAGGAGCCA---CAGTCAGACCTCAGCATCGAGCCCCCTCTG
+Canis_lupus                  TCGCGATGCAAGAGCCA---CAGTCAGAGCTCAATATCGACCCCCCTCTG
+Mouse_p53                    CTGCCATGGAGGAGTCA---CAGTCGGATATCAGCCTCGAGCTCCCTCTG
+Gobiocypris_rarus            TTTGGTCAGTAGGGTGAGT-CACTCGAAAAACATCAACGAACCATCATCG
+Danio_rerio                  TTAAGTCGATCGACTACAT--ATCCGGGCAAT-CCGAAAGTCGATAATCG
+Oryzias_latipes              AAACGTCTTTCCAGCCTCT-TGGATAATAAATAGCGTATTGTTGTCGGTG
+Bombyx_mori                  ACTTTATGTTTGTCCTAACCCTGTCTAGTCTGGTTCTTCATAGAGATCTG
+Drosophila_melanogaster      AGTTTTTTGTTAGCGAA---TTTTTAATATTTAGCCTCCTTCCCCAACAA
+Marsupenaeus_japonicus       CAGCAGCAACAACAACAACAGCAGCAACAACCACAACC--ACAACAGCAG
+                                                                               
+
+Macaca_fascicularis          AGTCAGGAAACATT---TTCAGACCTATGGAAACTACTTCCTGAAAACCA
+Macaca_mulatta               AGTCAGGAAACATT---TTCAGACCTATGGAAACTACTTCCTGAAAACAA
+Homo_sapiens                 AGTCAGGAAACATT---TTCAGACCTATGGAAACTACTTCCTGAAAACAA
+Delphinapterus_leucas        AGTCAGGAGACGTT---TTCAGACTTGTGGAAACTGCTTCCTGAAAACAA
+Bubalus_bubalis              AGTCAGGAGACATT---TTCCGACTTGTGGAACCTACTTCCTGAAAATAA
+Cricetulus_griseus           AGCCAGGAGACATT---TTCAGACCTGTGGAAACTACTTCCTCCAAACAA
+Microtus_ochrogaster         AGTCAGGAGACATT---TTCAGACTTGTGGAACCTACTTCCTCCAAACAA
+Canis_lupus                  AGCCAGGAGACATT---TTCAGAATTGTGGAACCTGCTTCCTGAAAACAA
+Mouse_p53                    AGCCAGGAGACATT---TTCAGGCTTATGGAAACTACTTCCTCCAGAAGA
+Gobiocypris_rarus            CAGCAAGAGTAACGAGATAACTGTTTTGGAATAAGAGGTCAGCAAAGTCA
+Danio_rerio                  TAGT-------------------TTAGTGGAGAGGAGGTCGGCAAAATCA
+Oryzias_latipes              CGATTCCCGACCAT----CAAAGTTGGGAAAGCATGGATCCTGTACCCGA
+Bombyx_mori                  TACTGCAGCAGTGTGTTGTGGTGTCGATGGAATCTGTACCCACTTCACAC
+Drosophila_melanogaster      GATCGCTTGATCAGA--TATAGCCGACTAAGATGTATATATCACAGCCAA
+Marsupenaeus_japonicus       CAGCAGCAGATTCAGCAACAACAGCCGGGACAACAGCCTGCTCCACAAAT
+                                                                               
+
+Macaca_fascicularis          CGT-TCTGTCCCCCTTGC-----CATCCCAAG---CAGTGGATGAT----
+Macaca_mulatta               CGT-TCTGTCCCCCTTGC-----CATCCCAAG---CAGTGGATGAT----
+Homo_sapiens                 CGT-TCTGTCCCCCTTGC-----CGTCCCAAG---CAATGGATGAT----
+Delphinapterus_leucas        CCT-TCTGTCCTCTGAGC-----TCTCCCCAG---CCGTGGATGAC----
+Bubalus_bubalis              CCT-TCTGTCCTCCGAGC-----TCTCTGCAC---CTGTGGATGAC----
+Cricetulus_griseus           TGT-TCTGTCCACCTTGC-----CGTCATCCGATTCCATTGAAGAG----
+Microtus_ochrogaster         TGT-TCTGTCCACATCGC-----TGTCAGTTGATGCCATGGAAGAT----
+Canis_lupus                  TGT-TCTGTCTTCGGAGC-----TGTGCCCAG---CAGTGGATGAG----
+Mouse_p53                    TAT-CCTGCCATCA---------CCTCACTGC-----ATGGACGAT----
+Gobiocypris_rarus            ATT-GTCGCAAGTTTTGCGAATCTGAAACAGGACATGGCAGAAAATCCGG
+Danio_rerio                  ATT-CTTGCAA---------------AGCA----ATGGCGCAAAAC---G
+Oryzias_latipes              CCTGCCCGAGAGCCAAGG----TTCTTTTCAAGAACTCTGGGAGACT--G
+Bombyx_mori                  TAG-TATTCTCTAATTGCTTAAATGAAACACGAAATCATGACATCTCT-T
+Drosophila_melanogaster      TGT-CGTGGCACAAAGAAAGCACTGATTCCGAGGATGACTCCACGG----
+Marsupenaeus_japonicus       TGCATATCCCATACAAAATATCGATAACCAGTTGATCCTGACGAAT----
+                                                                               
+
+Macaca_fascicularis          -TTGATGCTGTCTCCAGACGATCTTGCACAATGGTTAACTGA-AGACCCA
+Macaca_mulatta               -TTGATGCTGTCTCCAGACGATCTTGCACAATGGTTAACTGA-AGACCCA
+Homo_sapiens                 -TTGATGCTGTCCCCGGACGATATTGAACAATGGTTCACTGA-AGACCCA
+Delphinapterus_leucas        -CTGCTGCTGTCCCCAGAAGACGTCGCAAACTGGCTGGATGA-AC-----
+Bubalus_bubalis              -CTGCTCCCGTACACAG---ATGTTGCCACCTGGCTGGATGA-AT-----
+Cricetulus_griseus           -CTGTTCCTGTCAGAGA---ATGTTACAGGCTGGTTAGA----AG-----
+Microtus_ochrogaster         -CTGTTCCTGTCCCAGG---ATGTTGCAAACTGGTTAGA----AG-----
+Canis_lupus                  -CTGCTGCTCCCAGAGA---GCGTCGTGAACTGGCTAGACGA-AG-----
+Mouse_p53                    -CTGTTGCTGCCCCAGG---ATGTTGAGGAGTTTTTTGA----AG-----
+Gobiocypris_rarus            AGAGTCAAGAGTTTGCTGACCTCTGGGAGCGGAATCTCAT-----TTCTG
+Danio_rerio                  ACAGCCAAGAGTTCGCGGAGCTCTGGGAGAAGAATTTGATAAGTATTCAG
+Oryzias_latipes              TTTATCCTCCGTTGGAAACTTTATCACTTCCAACTGTAAATGAGC-----
+Bombyx_mori                  GAGGTTGCCACATGCGAA-GATGACATAGTGAACATTGATTTGAACACT-
+Drosophila_melanogaster      -AGGTCGATATCAAGGAG-GATATTCCGAAAACGGTGGAGGT---ATCGG
+Marsupenaeus_japonicus       -TCGCACATCCACGGTGA-GATCTTTCAAACTGTTCAAGTTCAACAACAG
+                                                                               
+
+Macaca_fascicularis          GGTCCAGATGAAGCTCCGAG----AA---------TGTCAGAGGCTGCTC
+Macaca_mulatta               GGTCCAGATGAAGCTCCGAG----AA---------TGTCAGAGGCTGCTC
+Homo_sapiens                 GGTCCAGATGAAGCTCCCAG----AA---------TGCCAGAGGCTGCTC
+Delphinapterus_leucas        -GTCCAGATGAAGCCCCCCA----AA---------TGCCAGAGCCC----
+Bubalus_bubalis              -GTCCGAATGAAGTGCCCCA----AA---------TGCCAGAGCCT----
+Cricetulus_griseus           -ACTCAGGTGGAGCGCTCCA----AGGGGTGGCAGCAGCAGCAGCTTCTA
+Microtus_ochrogaster         -AGCCAAATGAAGGCCCCCA----AA------TGTCAGCAGCAGCTTCTA
+Canis_lupus                  -ACTCAGATGATGCTCCCAG----GA---------TGCCAGCCACTTCT-
+Mouse_p53                    -GCCCAAGTGAAGCCCTCCG----AG---------TGTCAGGAGCTCCTG
+Gobiocypris_rarus            CTCCTGAA-GGTAGCCCTTG---GGACATCA------ATGATGAGTACC-
+Danio_rerio                  CCCCCAGGTGGTGGCTCTTGCTGGGACATCATTAATGATGAGGAGTACT-
+Oryzias_latipes              CCACCGGGTCATGGGTCGCAACGGGGGATATGTTTCTCTTGGATCAAGAC
+Bombyx_mori                  ATACCGGATGAAGCATTGTTTCAAGGGGGGATACACGATCAAGTTGACAT
+Drosophila_melanogaster      GATCGGAATTGACCACGGAACC--CATGGCCTTCTTGCAGGGATTAAACT
+Marsupenaeus_japonicus       CCTCAACAGCAGCAGATTCA---GCAACTGCAGCCTGGCCAGCCAATCCC
+                                                                               
+
+Macaca_fascicularis          CCCCCATGGCCCCCACACCAGCAGCTCCTACACCAGCG-GCCCCTGCAC-
+Macaca_mulatta               CCCCCATGGCCCCCACACCAGCAGCTCCTACACCGGCG-GCCCCTGCAC-
+Homo_sapiens                 CCCGCGTGGCCCCTGCACCAGCAGCTCCTACACCGGCG-GCCCCTGCAC-
+Delphinapterus_leucas        -----------CCTGCGCCAGCTGCCCCCACCCCAGCC-GCCCCAGCAC-
+Bubalus_bubalis              -----------TCTGCTCCAGCTGCCCCGCCACCAGCC-ACCCCAGCAC-
+Cricetulus_griseus           CAGCAGAAGACCCTGTAACTGAGACTCCTGCACCGGTG-GCCTCTGCAC-
+Microtus_ochrogaster         CAGCAGAGGACCCTGTCACTGAGGCCCCCGCACCAGTG-ACCCCTGCAC-
+Canis_lupus                  -----------------------GCCCCCACA-------GCCCCTGGAC-
+Mouse_p53                    CAGCACAGGACCCTGTCACCGAGACCCCTGGGCCAGTG-GCCCCCGCCC-
+Gobiocypris_rarus            CTCCG------TTCGACCCAAGTATTTTT---AACTTG-ATTTCTGAACA
+Danio_rerio                  TGCCGGGATCGTTTGACCCCAATTTTTTTGAAAATGTG-CTTGAAGAACA
+Oryzias_latipes              CTCAGTGGGACCTTCGATGACAAGATCTTTGACATACC-GATTGAGCCAG
+Bombyx_mori                  TGGAGTGCTAGATGACATTCCGTACATAATCAGTGATG-TGTCTAACAA-
+Drosophila_melanogaster      CCGGGAATCTGATGCAGTTCAGCCAGCAATCCGTGCTG-CGCGAAATGAT
+Marsupenaeus_japonicus       GTGGGATTCTCTTCAAACTCTTGACACTGAAAATGTCGAAGTGTTGCCAA
+                                                                               
+
+Macaca_fascicularis          ----CAGCCCCCTCCTGG-CCC-CTGTCATCCTCTGTC-CCTTCCCAGAA
+Macaca_mulatta               ----CAGCCCCCTCCTGG-CCC-CTGTCATCCTCTGTC-CCTTCCCAGAA
+Homo_sapiens                 ----CAGCCCCCTCCTGG-CCC-CTGTCATCTTCTGTC-CCTTCCCAGAA
+Delphinapterus_leucas        ----CAGCCACCTCCTGG-CCC-CTGTCGTCCTTTGTC-CCTTCCCAGAA
+Bubalus_bubalis              ----CAGCCACCTCCTGG-CCC-CTGTCATCCTTTGTC-CCCTCCCAGAA
+Cricetulus_griseus           ----CAGCCACTCCCTGG-CCC-CTCTCATCTTCTGTC-CCATCCTATAA
+Microtus_ochrogaster         ----CAGTCACTTCCTGG-CCC-CTCTCATCTTCTGTC-CCGTCCCAAAA
+Canis_lupus                  ----CGGCCCCCTCCTGG-CCC-CTATCATCCTCTGTC-CCTTCCCCGAA
+Mouse_p53                    ----CAGCCACTCCATGG-CCC-CTGTCATCTTTTGTC-CCTTCTCAAAA
+Gobiocypris_rarus            GTCTCAGCCATCCACCTC-CCCACCGACCTCCACTGTC-CCAATTGCCAC
+Danio_rerio                  GCCTCAGCCATCCACTCT-CCCACCAACATCCACTGTT-CCGGAGACAAG
+Oryzias_latipes              TTCCCACCAACGAAGTAAACCCGCCACCTACCACCGTC-CCGGTGACCAC
+Bombyx_mori                  --TTCAAACAATTCCTTTCCTCTTGGACCCCGAGGACCGCCGCCTCGCAA
+Drosophila_melanogaster      GCTGCAGGACATTCAGATCCAGGCGAACA--CGCTGCCCAAGCTAGAGAA
+Marsupenaeus_japonicus       ACAACAATGTGCCAGTGGGTGGAGTATCAGCTGCCATCACCTTGATAGAA
+                                 *                      *                    * 
+
+Macaca_fascicularis          AACCTACCATGGCAGCTACGGTTTCCGTCTGGGCTTCCTGCATTCTGGAA
+Macaca_mulatta               AACCTACCATGGCAGCTACGGTTTCCGTCTGGGCTTCCTGCATTCTGGAA
+Homo_sapiens                 AACCTACCAGGGCAGCTACGGTTTCCGTCTGGGCTTCTTGCATTCTGGGA
+Delphinapterus_leucas        GACCTACCCTGGCAGCTATGGGTTCCATCTAGGTTTCCTACATTCCGGAA
+Bubalus_bubalis              GACCTACCCTGGCAATTACGGTTTCCGTCTAGGGTTCCTGCATTCCGGAA
+Cricetulus_griseus           AACCTTCCAGGGCGACTATGGCTTCCGTCTGGGCTTCCTGCACTCAGGGA
+Microtus_ochrogaster         AACCTACCAGGGCGAATATGGTTTCCGCCTGGGCTTCCTGCACTCAGGGA
+Canis_lupus                  GACCTACCCTGGCACCTATGGGTTCCGTTTGGGGTTCCTGCATTCCGGGA
+Mouse_p53                    AACTTACCAGGGCAACTATGGCTTCCACCTGGGCTTCCTGCAGTCTGGGA
+Gobiocypris_rarus            GGATTATCCTGGAGACTATGGGTTTAAACTGCAGTTCCCGCAATCAGGCA
+Danio_rerio                  CGACTATCCCGGCGATCATGGATTTAGGCTCAGGTTCCCGCAGTCTGGCA
+Oryzias_latipes              CGACTACCCGGGAAGCTACGAACTGGAACTTCGTTTTCAAAAATCTGGCA
+Bombyx_mori                  AGACGATCCCGGGCAATACAACTTCAGCGTCGAAATCCACAGCAAGGATA
+Drosophila_melanogaster      TCACAACATCGGTGGTTATTGCTTCAGCATGG---TTCTGGA---TGAGC
+Marsupenaeus_japonicus       GGCTCAGCCACTTCCTGCCTGGCT--GACTCTACTCTGGCACATTCGGTG
+                                                    *     *                *   
+
+Macaca_fascicularis          CAGCCAAGTCTGTGACTTGCACGTACTCCCCTGACCTCAACAAGATGTTT
+Macaca_mulatta               CAGCCAAGTCTGTGACTTGCACGTACTCCCCTGACCTCAACAAGATGTTT
+Homo_sapiens                 CAGCCAAGTCTGTGACTTGCACGTACTCCCCTGCCCTCAACAAGATGTTT
+Delphinapterus_leucas        CAGCCAAGTCTGTAACCTGCACGTATTCCCCTGCCCTCAACAAGCTGTTT
+Bubalus_bubalis              CAGCCAAGTCTGTGACCTGCACGTATTCCCCTTCCCTTAACAAGCTGTTC
+Cricetulus_griseus           CGGCCAAATCTGTCACGTGCACGTACTCCCCTTCCCTAAATAAGCTATTT
+Microtus_ochrogaster         CGGCCAAATCTGTCACCTGCACGTACTCCCCTTCTCTCAATAAGCTATTC
+Canis_lupus                  CAGCCAAGTCTGTTACTTGGACGTACTCCCCTCTCCTCAACAAGTTGTTT
+Mouse_p53                    CAGCCAAGTCTGTTATGTGCACGTACTCTCCTCCCCTCAATAAGCTATTC
+Gobiocypris_rarus            CCGCCAAGTCTGTCACCTGCACGTACTCCCCAGACCTGAACAAGCTCTTT
+Danio_rerio                  CAGCAAAATCTGTAACTTGCACTTATTCACCGGACCTGAATAAACTCTTC
+Oryzias_latipes              CTGCAAAGTCTGTGACGTCCACATACTCTGAAACTTTAAATAAGCTGTAC
+Bombyx_mori                  CACACAAG---AAGAAATTCTTGTTCTCGCACAAGCTGAACCGGATCTAC
+Drosophila_melanogaster      CGCCCAAGTCTCT---TTGGATGTACTCGATTCCGCTGAACAAGCTCTAC
+Marsupenaeus_japonicus       CCATCGCTCCAGCCATGGGCTGGTCGTCACAAATTCGGCATATCCCTCCC
+                             *                      *  **           *          
+
+Macaca_fascicularis          TGCCAGCTGGCCAA-------GAC----CTGCCCCGTGCAGCTATGGGTT
+Macaca_mulatta               TGCCAGCTGGCCAA-------GAC----CTGCCCCGTGCAGCTATGGGTT
+Homo_sapiens                 TGCCAACTGGCCAA-------GAC----CTGCCCTGTGCAGCTGTGGGTT
+Delphinapterus_leucas        TGCCAGCTGGCCAA-------GAC----CTGCCCGGTGCAGCTGTGGGTC
+Bubalus_bubalis              TGTCAGCTGGCCAA-------GAC----CTGCCCAGTGCAGCTGTGGGTC
+Cricetulus_griseus           TGCCAGCTGGCAAA-------AAC----ATGCCCTGTGCAGCTGTGGGTC
+Microtus_ochrogaster         TGCCAGCTGGCAAA-------AAC----ATGTCCTGTGCAGTTGTGGGTC
+Canis_lupus                  TGCCAGCTGGCGAA-------GAC----CTGCCCCGTGCAGCTGTGGGTC
+Mouse_p53                    TTCCAGCTGGCGAA-------GAC----GTGCCCTGTGCAGTTGTGGGTC
+Gobiocypris_rarus            TGCCAGTTGGCGAA-------AAC----GTGTCCAGTTCAGATGGTGGTG
+Danio_rerio                  TGTCAGCTGGCAAA-------AAC----TTGCCCCGTTCAAATGGTGGTG
+Oryzias_latipes              TGCCAGCTTGCAAA-------AAC----CAGCCCCATAGAAGTCCGGGTG
+Bombyx_mori                  GTGAACATGGAGACC------GACTTCGCTGTCCAGTTCAACTGGGAGCT
+Drosophila_melanogaster      ATCCGGATGAACAAGGCCTTCAACGTGGACGTTCAGTTCAAGTCTAAAAT
+Marsupenaeus_japonicus       AACCGGCAACAAAGACCGCAACAAGTGGTGCTACAGTCAGGACCTGGGTA
+                                         *         *          *  *             
+
+Macaca_fascicularis          GATTCCACA-CCCC-CACCCG-----GCAGCCGCGTCCGCGCCATGGCCA
+Macaca_mulatta               GATTCCACA-CCCC-CACCCG-----GCAGCCGCGTCCGCGCCATGGCCA
+Homo_sapiens                 GATTCCACA-CCCC-CGCCCG-----GCACCCGCGTCCGCGCCATGGCCA
+Delphinapterus_leucas        AGCTCACCA-CCCC-CGCCCG-----GCACCCGGGTCCGCGCCATGGCCA
+Bubalus_bubalis              GACTCGCCA-CCCC-CGCCCG-----GCACCCGCGTCCGCGCCATGGCCA
+Cricetulus_griseus           AACTCCACC-CCTC-CACCTG-----GCACCCGTGTCCGTGCCATGGCCA
+Microtus_ochrogaster         AGCTCCACA-CCTC-CTCCTG-----GCACCCGTGTCCGTGCCATGGCCA
+Canis_lupus                  AGCTCCCCA-CCCC-CACCCA-----ATACCTGCGTCCGCGCTATGGCCA
+Mouse_p53                    AGCGCCACA-CCTC-CAGCTG-----GGAGCCGTGTCCGCGCCATGGCCA
+Gobiocypris_rarus            GACTTTGCC-CCTC-CCCAAG-----GCTCGGTGCTCAGAGCCACAGCCA
+Danio_rerio                  GACGTTGCC-CCTC-CACAGG-----GCTCCGTGGTTCGAGCCACTGCCA
+Oryzias_latipes              AGCAAGGAG-CCTC-CAAAGG-----GCGCCATTCTCAGGGCCACTGCGG
+Bombyx_mori                  GGTGGACCT-CGCCGTGACGC-----AGATGTACGTGCGCGCCACCGTCG
+Drosophila_melanogaster      GCCCATCCAACCACTTAATTT-----GCGTGTGTTCCTTTGCTTCTCCAA
+Marsupenaeus_japonicus       AGCTCTACCTCTGCCCAAATGTTGCTGTACCAGTGAATGTGATGTTGGAA
+                                       *  *                          *         
+
+Macaca_fascicularis          TC-TACAAGCAGTC--ACAGCAC-ATGACGGAGGTCGTGA---GGCGCTG
+Macaca_mulatta               TC-TACAAGCAGTC--ACAGCAC-ATGACGGAGGTCGTGA---GGCGCTG
+Homo_sapiens                 TC-TACAAGCAGTC--ACAGCAC-ATGACGGAGGTTGTGA---GGCGCTG
+Delphinapterus_leucas        TC-TATAAGAAGTC--AGAGTAC-ATGACGGAGGTTGTGA---GGCGCTG
+Bubalus_bubalis              TC-TACAAGAAGTT--GGAGCAC-ATGACGGAGGTTGTGA---GGCGTTG
+Cricetulus_griseus           TC-TACAAGAAGCT--ACAATAC-ATGACAGAAGTTGTAA---GACGCTG
+Microtus_ochrogaster         TC-TACAAGAAGTC--ACAGCAC-ATGACAGAAGTAGTTA---GACGCTG
+Canis_lupus                  TC-TATAAGAAGTC--GGAGTTC-GTGACCGAGGTTGTGC---GGCGCTG
+Mouse_p53                    TC-TACAAGAAGTC--ACAGCAC-ATGACGGAGGTCGTGA---GACGCTG
+Gobiocypris_rarus            TT-TATAAAAAATC--TGAGCAT-GTGGCTGAGGTGGTCC---GGCGTTG
+Danio_rerio                  TC-TATAAGAAGTC--CGAGCAT-GTGGCTGAAGTGGTCC---GCAGATG
+Oryzias_latipes              TC-TACAAGAAGAC--GGAGCAC-GTGGCGGACGTGGTGA---GGAGGTG
+Bombyx_mori                  TC-TTCGAGGACGA--GTCCCAG-GCCGAGAAGAGAGTCG---AGAGATG
+Drosophila_melanogaster      TGATGTGAGTGCTCCCGTGGTCC-GCTGTCAAAATCACCTT--AGCGTTG
+Marsupenaeus_japonicus       GATTGGGTGAATGCCACCATCACCATGACACCAGTGTTCAAGCAAAGCTG
+                                *                                          * **
+
+Macaca_fascicularis          CCCCCACCATGAGC---GCTGCTCAGA---CAGCGATGGACTGGCCCCTC
+Macaca_mulatta               CCCCCACCATGAGC---GCTGCTCAGA---CAGCGATGGACTGGCCCCTC
+Homo_sapiens                 CCCCCACCATGAGC---GCTGCTCAGA---TAGCGATGGTCTGGCCCCTC
+Delphinapterus_leucas        TCCCCACCATGAGC---GCTGCTCTGACTATAGCGACGGTCTGGCCCCTC
+Bubalus_bubalis              TCCCCACCATGAGC---GCTCCTCTGACTATAGCGATGGTCTGGCCCCTC
+Cricetulus_griseus           CCCTCACCACGAGC---GCTCCTCCGA---AGGCGATAGTTTGGCTCCTC
+Microtus_ochrogaster         CCCCCACCACGAGC---GCTGCTCCGA---TGGTGATGGTTTGGCTCCCC
+Canis_lupus                  CCCCCACCATGAAC---GCTGCTCTGACAGTAGTGACGGTCTTGCCCCTC
+Mouse_p53                    CCCCCACCATGAGC---GCTGCTCCGA---TGGTGATGGCCTGGCTCCTC
+Gobiocypris_rarus            CCCCCACCATGAGA---GAACACCTGA---TACTGATGGATTGGCTCCTC
+Danio_rerio                  CCCCCATCATGAGC---GAACCCCGGA---TGGAGATAACTTGGCGCCTG
+Oryzias_latipes              TCCCCACCACCAAA---AC------------GAGGACTCTGTGGAGCACC
+Bombyx_mori                  CATCCAGCACAAACTCTGCAGTTCCGATAAAGGCCAGGACCGCGTCGTGT
+Drosophila_melanogaster      AGCCTTTGACGGCC--AATAACGCAAAAATGCGCGAGAGCTTGCTGCGCA
+Marsupenaeus_japonicus       CCACCGTACAGAACCAGTGAACAGGTGCTACAACTGTAAGAGTATTCAAA
+                                                                               
+
+Macaca_fascicularis          CTCAGCACCTTATCCGAGTGGAAGGAAATTTGCGTGTGGAGTATTCGGAT
+Macaca_mulatta               CTCAGCACCTTATCCGAGTGGAAGGAAATTTGCGTGTGGAGTATTCGGAT
+Homo_sapiens                 CTCAGCATCTTATCCGAGTGGAAGGAAATTTGCGTGTGGAGTATTTGGAT
+Delphinapterus_leucas        CTCAGCATCTGATCCGGGTGGAAGGGAATTTACGTGCTGAGTATTTGGAC
+Bubalus_bubalis              CTCAGCACCTTATCCGGGTGGAAGGGAATTTACGCGCAGAGTATTTGGAC
+Cricetulus_griseus           CTCAGCATCTTATCCGAGTGGAAGGAAATTTGCATGCCGAGTACCTGGAT
+Microtus_ochrogaster         CTCAGCATCTCATCCGAGTGGAAGGAAACTTGCGAGCCGAGTATCTGGAT
+Canis_lupus                  CTCAGCATCTCATCCGAGTGGAAGGAAATTTGCGGGCCAAGTACCTGGAC
+Mouse_p53                    CCCAGCATCTTATCCGGGTGGAAGGAAATTTGTATCCCGAGTATCTGGAA
+Gobiocypris_rarus            CTGCTCACCTGATCCGAGTGGAGGGAAACTTGCGTGCTATTTACAAGGTA
+Danio_rerio                  CTGGTCATTTGATAAGAGTGGAGGGCAATCAGCGAGCAAATTACAGGGAA
+Oryzias_latipes              GAAGCCATCTGATTCGGGTGGAGGGCAGCCAGCTGGCCCAGTATTTTGAA
+Bombyx_mori                  CGGAGAACGTGCTGCGCTCGTCGCGGCCCCTGGGCACCAACGACGTGCAG
+Drosophila_melanogaster      GCGAGAATCCCAACAGTGTATATTGTGG---AAATGCTCAGGGCAAGGGA
+Marsupenaeus_japonicus       ACTGTGATCCAAACTTGGCCGAGCATGTTGTACAGATTGAGGGGGAAGGC
+                                   *                                           
+
+Macaca_fascicularis          GACAGAAACA--CTTTTCGACATAGTGTGGTGGTGCCCTATG-------A
+Macaca_mulatta               GACAGAAACA--CTTTTCGACATAGTGTGGTGGTGCCCTATG-------A
+Homo_sapiens                 GACAGAAACA--CTTTTCGACATAGTGTGGTGGTGCCCTATG-------A
+Delphinapterus_leucas        GACAGAAACA--CTTTTCGACACAGCGTGGTGGTGCCCTACG-------A
+Bubalus_bubalis              GACCGGAACA--CCTTTAGACACAGTGTGGTGGTGCCCTATG-------A
+Cricetulus_griseus           GACAAGCAAA--CATTTCGGCACAGTGTGGTGGTACCATATG-------A
+Microtus_ochrogaster         GACAGGCAGA--CTTTTCGGCACAGTGTGGTGGTGCCATATG-------A
+Canis_lupus                  GACAGAAACA--CTTTTCGACACAGTGTGGTGGTGCCTTATG-------A
+Mouse_p53                    GACAGGCAGA--CTTTTCGCCACAGCGTGGTGGTACCTTATG-------A
+Gobiocypris_rarus            GATGACATCA--CCTCCAGGCACAGTGTAATGGTTCTCTATG-------A
+Danio_rerio                  GATAACATCA--CTTTAAGGCATAGTGTTTTTGTCCCATATG-------A
+Oryzias_latipes              GACCCTTATA--CCAAAAGGCAGAGTGTTACAGTTCCTTATG-------A
+Bombyx_mori                  TACTGCGGCCACCCGGACGACCCCGACTACTGGTACTCCGTGCTGGTGCA
+Drosophila_melanogaster      ATTTCCGAGCGTTTTTCCGTTGTAGTCCCCCTGAACATGAGCCGGT--CT
+Marsupenaeus_japonicus       TGTGAGTACAGCTTTATCAATGATAGATACTTGGTTACTGTGCCCCTCCG
+                                                             *                 
+
+Macaca_fascicularis          GCCGCCTGAGGTTGGCTCTGACTGTACCACCATCCACTACAACTACATGT
+Macaca_mulatta               GCCGCCTGAGGTTGGCTCTGACTGTACCACCATCCACTACAACTACATGT
+Homo_sapiens                 GCCGCCTGAGGTTGGCTCTGACTGTACCACCATCCACTACAACTACATGT
+Delphinapterus_leucas        GCCGCCTGAGGTTGGCTCTGACTGTACCACCATCCACTACAACTTCATGT
+Bubalus_bubalis              GTCCCCCGAGATCGACTCTGAGTGCACCACCATCCATTACAACTTCATGT
+Cricetulus_griseus           GCCACCTGAGGTTGGCTCTGACTGTACCACCATCCATTACAACTACATGT
+Microtus_ochrogaster         GCCACCTGAGGTTGGCTCTGACTGTACCACCATCCACTACAACTATATGT
+Canis_lupus                  GCCACCCGAGGTTGGCTCTGACTATACCACCATCCACTACAACTACATGT
+Mouse_p53                    GCCACCCGAGGCCGGCTCTGAGTATACCACCATCCACTACAAGTACATGT
+Gobiocypris_rarus            AGCTCCTCAGCTGGGAGCAGGATTTACCACAGTTCTGTACAATTACATGT
+Danio_rerio                  AGCACCACAGCTTGGTGCTGAATGGACAACTGTGCTACTAAACTACATGT
+Oryzias_latipes              GCCCCCGCAGCCGGGCTCTGAGATGACCACCATCCTGCTCAGCTACATGT
+Bombyx_mori                  GCTGCCCAAGCCGGGCCGGGAGCCTTGCACGCACGCCTTCAAGTTCGTCT
+Drosophila_melanogaster      GTAACCCGCAGTGGGCTCACGCGCCAG-ACCCTGGCCTTCAAGTTCGTCT
+Marsupenaeus_japonicus       CCCCCCACCCCCAGGGGAGGTACCTTCGACGCTCCTGATCAAGATTATGT
+                                 **       *              **          *      * *
+
+Macaca_fascicularis          GTAACAGTTCCTGCATGGGCGGCATGAACCGGAGGCCCATCCTTACCATT
+Macaca_mulatta               GTAACAGTTCCTGCATGGGCGGCATGAACCGGAGGCCCATCCTTACCATT
+Homo_sapiens                 GTAACAGTTCCTGCATGGGCGGCATGAACCGGAGGCCCATCCTCACCATC
+Delphinapterus_leucas        GTAACAGCTCCTGCATGGGAGGCATGAACCGGCGGCCCATCCTCACCATC
+Bubalus_bubalis              GTAACAGCTCCTGTATGGGGGGCATGAACCGGCGGCCCATCCTCACCATC
+Cricetulus_griseus           GCAATAGTTCCTGCATGGGGGGCATGAACCGGCGGCCCATCCTTACCATC
+Microtus_ochrogaster         GTAATAGCTCCTGCATGGGGGGCATGAACCGCCGGCCCATCCTCACCATT
+Canis_lupus                  GTAACAGTTCCTGCATGGGAGGCATGAACCGGCGGCCCATCCTCACTATC
+Mouse_p53                    GTAATAGCTCCTGCATGGGGGGCATGAACCGCCGACCTATCCTTACCATC
+Gobiocypris_rarus            GCAATAGTAGCTGCATGGGTGGCATGAACCGCCGGCCCATCCTCACAATC
+Danio_rerio                  GCAATAGCAGCTGCATGGGGGGGATGAACCGCAGGCCCATCCTCACAATC
+Oryzias_latipes              GTAACAGCTCGTGCATGGGGGGGATGAACCGCAGACCCATCCTCACCATC
+Bombyx_mori                  GCAAGAACTCCTGCAGCACCGGCATCAACCGCCGCTCCATAGCCGTCATC
+Drosophila_melanogaster      GCCAAAACTCGTGTATCGGGCGAAAAGAA---------ACTTCCTTAGTC
+Marsupenaeus_japonicus       GTCTGACTTCATGCGTTGGAGGCCCCAACAGACGTCCATTTTGTATTGTT
+                             *    *     **        *     *                    * 
+
+Macaca_fascicularis          ATCACACTGGAAGACTC---CAGTGGTAATCTACTGGGACGGAACAGCTT
+Macaca_mulatta               ATCACACTGGAAGACTC---CAGTGGTAATCTACTGGGACGGAACAGCTT
+Homo_sapiens                 ATCACACTGGAAGACTC---CAGTGGTAATCTACTGGGACGGAACAGCTT
+Delphinapterus_leucas        ATCACACTGGAAGACTC---CAATGGTAATCTGCTGGGACGGAACAGCTT
+Bubalus_bubalis              ATCACACTGGAAGACTC---TTGTGGTAACCTGCTGGGACGGAACAGCTT
+Cricetulus_griseus           ATCACACTGGAAGACCC---CAGTGGTAACCTGCTGGGACGGAACAGCTT
+Microtus_ochrogaster         ATCACACTGGAAGACCC---CAGTGGGAACCTGCTGGGACGGAACAGCTT
+Canis_lupus                  ATCACCCTGGAAGACTC---CAGTGGAAACGTGCTGGGACGCAACAGCTT
+Mouse_p53                    ATCACACTGGAAGACTC---CAGTGGGAACCTTCTGGGACGGGACAGCTT
+Gobiocypris_rarus            ATCACTCTGGAGACTCA---GGATGGTCAGATGCTGGGTCGCAGATCTTT
+Danio_rerio                  ATCACTCTGGAGACTCA---GGAAGGTCAGTTGCTGGGCCGGAGGTCTTT
+Oryzias_latipes              CTCACTCTGGAAA---C---CGAGGGTCTGGTTCTTGGCCGGAGGTGTTT
+Bombyx_mori                  TTCACCCTGGAGAGCGC---CTCCGGCTCGGTGCTGGGGCGGCAGACGGT
+Drosophila_melanogaster      TTCTGCCTGGAGAAAGC---ATGCGGCGATATCGTGGGACAGCATGTTAT
+Marsupenaeus_japonicus       CTCACTCTTAGAAACTCTGTCACTGGTGAAGAGATTGGTCGGCAGATCCT
+                              **   **                **        * ** *         *
+
+Macaca_fascicularis          TGAGGTGCGAGTTTGTGCCTGTCCTGGGAGAGACCGGCGCACAGAGGAA-
+Macaca_mulatta               TGAGGTGCGAGTTTGTGCCTGTCCTGGGAGAGACCGGCGCACAGAGGAA-
+Homo_sapiens                 TGAGGTGCATGTTTGTGCCTGTCCTGGGAGAGACCGGCGCACAGAGGAA-
+Delphinapterus_leucas        TGAGGTGCGTGTTTGTGCGTGTCCTGGGAGAGACCGCCGCACAGAGGAA-
+Bubalus_bubalis              TGAGGTGCGAGTTTGTGCCTGTCCTGGGAGAGACCGCCGCACTGAGGAA-
+Cricetulus_griseus           TGAGGTTCGTATTTGTGCCTGTCCTGGGAGAGACCGTCGTACCGAGGAA-
+Microtus_ochrogaster         TGAGGTTCGTGTTTGTGCCTGTCCTGGGAGAGACCGTCGTACAGAGGAA-
+Canis_lupus                  TGAGGTACGCGTTTGTGCCTGTCCCGGGAGAGACCGCCGGACTGAGGAG-
+Mouse_p53                    TGAGGTTCGTGTTTGTGCCTGCCCTGGGAGAGACCGCCGTACAGAAGAA-
+Gobiocypris_rarus            TGAAGTCCGTGTCTGTGCGTGCCCAGGCAGAGACAGGAAAACTGAAGAG-
+Danio_rerio                  TGAGGTGCGTGTGTGTGCATGTCCAGGCAGAGACAGGAAAACTGAGGAG-
+Oryzias_latipes              CGAGGTCAGAATCTGTGCTTGCCCGGGGCGGGACCGCAAAACGGAGGAG-
+Bombyx_mori                  GGGCGCGCGGGTGTGCTCGTGCACGGCGCGCGACATGTGCAAGGACGAG-
+Drosophila_melanogaster      ACATGTTAAAATATGTACGTGCCCCAAGCGGGATCGCATCCAAGACGAAC
+Marsupenaeus_japonicus       AGACATTAAATGCTGCAAGTGCCCATCTCGTGATCTTACTAATGACGAGA
+                                          **    **  *     * **          ** **  
+
+Macaca_fascicularis          GAGA--ATTTCCGCAAGAAAGGGGAG-------CCTTGCCA-----CCAG
+Macaca_mulatta               GAGA--ATTTCCGCAAGAAAGGGGAG-------CCTTGCCA-----CCAG
+Homo_sapiens                 GAGA--ATCTCCGCAAGAAAGGGGAG-------CCTCACCA-----CGAG
+Delphinapterus_leucas        GAAA--ATTTCCACAAGAAGGGGCAG-------TCTTGCCC-----TGAG
+Bubalus_bubalis              GAAA--ATTTTCGCAAGAAGGGGCAG-------TCTTGCCC-----CGAG
+Cricetulus_griseus           AAAA--ATTTCCAGAAAAAAGGAGAA-------CCTTGCCC-----AGAG
+Microtus_ochrogaster         GAAA--ATTTCCGGAAAAAGGGAGAG-------CCTCGTCC-----AGAA
+Canis_lupus                  GAGA--ATTTCCACAAGAAGGGGGAG-------CCTTGTCC-----TGAG
+Mouse_p53                    GAAA--ATTTCCGCAAAAAGGAAGTC-------CTTTGCCC-----TGAA
+Gobiocypris_rarus            AGTA--ACTTCAGGAAAGACCAGGAGACCAAAACCATGAGC-----AAAA
+Danio_rerio                  AGCA--ACTTCAAGAAAGACCAAGAGACCAAAACCATGGCC-----AAAA
+Oryzias_latipes              GAAA--GCCGGCAGAAAACGCA---------------GCCC-----AAAA
+Bombyx_mori                  GAGGCGGAGGGCGCGCGCGCGGCCAGGAAGCGGCCCCGCCC-----CGCG
+Drosophila_melanogaster      GCCAGCTCAATAGCAAGAAGCGCAAGT------CCGTGCCG-----GAAG
+Marsupenaeus_japonicus       AGAGCAGGACTCCCACAGCTCCGTCTACTCCCTCAGTGGATGAGGAAAAG
+                                                                               
+
+Macaca_fascicularis          CTGCCCCCTG----------GGAGCACTAAGCGAGCACTGCCCAACAACA
+Macaca_mulatta               CTGCCCCCTG----------GGAGCACTAAGCGAGCACTGCCCAACAACA
+Homo_sapiens                 CTGCCCCCAG----------GGAGCACTAAGCGAGCACTGTCCAACAACA
+Delphinapterus_leucas        CTGCCCACTG----------GGAGCGCTAAGCGAGCACTGCCTACCGGCA
+Bubalus_bubalis              CCACCCCCTG----------GGAGCACTAAGCGAGCACTGCCTACCAACA
+Cricetulus_griseus           CTGCCCCCAA----------AGAGTGCTAAACGAGCATTGCCTACCAACA
+Microtus_ochrogaster         CTGCCGGTGG----------GAAGTACTAAGAGAGTGCTGCCCACCAACA
+Canis_lupus                  CCACCCCCCG----------GGAGTACCAAGCGAGCACTGCCTCCCAGCA
+Mouse_p53                    CTGCCCCCAG----------GGAGCGCAAAGAGAGCGCTGCCCACCTGCA
+Gobiocypris_rarus            CTCCCTCTACCACCAAACGTGGTATGATTAAAGAATC------AACCATG
+Danio_rerio                  CCACCACTGGGACCAAACGTAGTTTGGTGAAAGAATCTTCTTCAGCTACA
+Oryzias_latipes              AAA--GGAAG----------GTGACACCCAACACCTCCTCCTCTAAGAGG
+Bombyx_mori                  CAGTCGC-------------GCCTCCTCAAGAAGATCAAGCTGGAGACCG
+Drosophila_melanogaster      CCGCCGAAGA------AGATGAGCCGTCCAAGGTGCGTCGGTGCATTGCT
+Marsupenaeus_japonicus       CGGACAAAGGTACGAAAATTGGCCAATGAAATTGCTGTTGGTCAGAAGCG
+                                                          *                    
+
+Macaca_fascicularis          CCAGCTCCT---CTCCCCAGCCAAAGAAGAAAC-----CACTGG-----A
+Macaca_mulatta               CCAGCTCCT---CTCCCCAGCCAAAGAAGAAAC-----CACTGG-----A
+Homo_sapiens                 CCAGCTCCT---CTCCCCAGCCAAAGAAGAAAC-----CACTGG-----A
+Delphinapterus_leucas        CCAGCTCCT---CTCCACCGCAAAAGAAGAAAC-----CACTGG-----A
+Bubalus_bubalis              CCAGCTCCT---CTCCACAGCAAAAGAAGAAAC-----GACTGG-----A
+Cricetulus_griseus           CAAGCTCCT---CTCCCCCGCCAAAGAAAAAAA-----CACTTG-----A
+Microtus_ochrogaster         CAAGCTC------TCCCCAGCCAAAGAAGAAAC-----CACTTG-----A
+Canis_lupus                  CCAGCTCCT---CTCCCCCGCAAAAGAAGAAGC-----CACTAG-----A
+Mouse_p53                    CAAGCGCCT---CTCCCCCGCAAAAGAAAAAAC-----CACTTG-----A
+Gobiocypris_rarus            TCTCGGCCT---GAGGGGAGCAAAAGGGCAAAACTCAGCGCCAGCAGCGA
+Danio_rerio                  TTACGACCT---GAGGGGAGCAAAAAGGCCAAG---GGCTCCAGCAGCGA
+Oryzias_latipes              AAGAAGTCC---CACTCAAGTGGAGAGGAGGAG------GACAA------
+Bombyx_mori                  TCGGCGACC---TGCCC--GTCGACGCCGAGACCCTCACCCTGCCGCCGC
+Drosophila_melanogaster      ATAAAGACG---GAGGACACGGAGAGCAATGAT-----AGCCGA----GA
+Marsupenaeus_japonicus       CAAGAGACCAAAGATCAAATTAGAACCAGGAACAGACTCCCGGAT---GG
+                                                                               
+
+Macaca_fascicularis          TGGAGAATATTTCACCCTTCAGATCCGTG-GGCGTGAGCGCTTCGAGATG
+Macaca_mulatta               TGGAGAATATTTCACCCTTCAGATCCGTG-GGCGTGAGCGCTTCGAGATG
+Homo_sapiens                 TGGAGAATATTTCACCCTTCAGATCCGTG-GGCGTGAGCGCTTCGAGATG
+Delphinapterus_leucas        TGGAGAATATTTCACTCTTCAGATCCGTG-GGCGTGAACGCTTTGAGATG
+Bubalus_bubalis              TGAAGAGTATTTCACTCTTCAGATCCGTG-GGCTTAAACGCTATGAGATG
+Cricetulus_griseus           TGGAGAATATTTCACCCTTAAGATCCGAG-GTCATGAGCGCTTCAAGATG
+Microtus_ochrogaster         TGGAGAATATTTCACCCTTAAGATCCGTG-GTCGTGAACGCTTCAAGATG
+Canis_lupus                  TGGAGAATATTTCACCCTTCAGATCCGTG-GGCGTGAACGCTATGAGATG
+Mouse_p53                    TGGAGAGTATTTCACCCTCAAGATCCGCG-GGCGTAAACGCTTCGAGATG
+Gobiocypris_rarus            TGAAGAAATATATACCCTGCAGGTGAAGG-GTAAGGAAAGATTCGACATG
+Danio_rerio                  TGAGGAGATCTTTACCCTGCAGGTGAGGG-GCAGGGAGCGTTATGAAATT
+Oryzias_latipes              CAGAGAAGTCTTTCATTTTGAGGTTTATG-GGAGGGAGCGCTACGAGTTC
+Bombyx_mori                  TGGAAATTATCGGAGCCAAAACGGTGAAG-ACCG-----GCCTGGAAGTG
+Drosophila_melanogaster      CTGCGACGACTCCGCCGCAGAGTGGAACGTGTCGCGGACACCGGATGGCG
+Marsupenaeus_japonicus       TGAACATTGCTGTTCCAGTAGAGTATGAGGCCGAAGTGAAATCTTACATC
+                                  *                      *                     
+
+Macaca_fascicularis          TTCCGAGAGCTGAATGAGGCCTTGGAACTCAAGGATGCCCAGGCTGGG--
+Macaca_mulatta               TTCCGAGAGCTGAATGAGGCCTTGGAACTCAAGGATGCCCAGGCTGGG--
+Homo_sapiens                 TTCCGAGAGCTGAATGAGGCCTTGGAACTCAAGGATGCCCAGGCTGGG--
+Delphinapterus_leucas        TTCCGAGAGCTGAATGAGGCCTTGGAGCTGAAGGATGCTCAGGCTGGA--
+Bubalus_bubalis              TTCCGAGAGCTGAATGATGCCTTGGAGCTGAAGGATGCTCTGGATGGA--
+Cricetulus_griseus           TTTCAAGAGCTGAATGAGGCCTTGGAATTGAAGGATGCTCAGGCTTCA--
+Microtus_ochrogaster         TTCTCAGAGCTGAATGAGGCCTTAGAATTAAAGGATGCTCAGGATGCA--
+Canis_lupus                  TTCAGGAATCTGAATGAAGCCTTGGAGCTGAAGGATGCCCAGAGTGGA--
+Mouse_p53                    TTCCGGGAGCTGAATGAGGCCTTAGAGTTAAAGGATGCCCATGCTACA--
+Gobiocypris_rarus            CTGAAGAAAATTAACGACAGTCTAGAACTCACTGATGTCGTCCCTCCA--
+Danio_rerio                  TTAAAGAAATTGAACGACAGTCTGGAGTTAAGTGATGTGGTGCCTGCC--
+Oryzias_latipes              CTTAAGAAGATAAACGATGGCCTTGAACTGCTGGAAAAGGAGAGCAAA--
+Bombyx_mori                  ATGCTGCGCATGATGGAGCAGGCGGCCCACTTCCACAAGCACGACCAG--
+Drosophila_melanogaster      ATT--ACCGTCTGGCTATTACGTGCCCCAATAAGGAATGGCTGCTGCA--
+Marsupenaeus_japonicus       AATAAGCTCATTGCTGCCGATCTGATCAAGAAGTGGCAGCCTGACGCACT
+                                                                               
+
+Macaca_fascicularis          -AAAGAACCAGCGGG------GAGCAGGGCTCACT--CCAGCCACCTGAA
+Macaca_mulatta               -AAAGAGCCAGCGGG------GAGCAGGGCTCACT--CCAGCCACCTGAA
+Homo_sapiens                 -AAGGAGCCAGGGGG------GAGCAGGGCTCACT--CCAGCCACCTGAA
+Delphinapterus_leucas        -AAGGAGCCAGGGGA------AAGCAGGGCTCACT--CTAGCCACCTGAA
+Bubalus_bubalis              -AGGGAACCAGGGGA------AAGCAGGGCTCACT--CTAGCCACCTGAA
+Cricetulus_griseus           -AAGGGGTCAGAGGA------CAATGGTGCTCACT--CCAGCTACCTGAA
+Microtus_ochrogaster         -AATGGGTCAGGAGA------CAGCAGGGCTCACT--CCAGCTACCTGAA
+Canis_lupus                  -AAGGAGCCAGGGGG------AAGCAGGGCTCACT--CCAGCCACCTGAA
+Mouse_p53                    -GAGGAGTCTGGAGA------CAGCAGGGCTCACT--CCAGCCTCC---A
+Gobiocypris_rarus            -TGCGACGTGGAAAAA--TATAGACAGAAATTGCTCTCCAAAAGCAAGAA
+Danio_rerio                  -TCAGATGCTGAAAAG--TATCGTCAGAAATTCATGACAAAAAACAAAAA
+Oryzias_latipes              -AGTAAAAACAAAGA---TTCTGGGATGGTCCCCT--CCAGTGGGAAGAA
+Bombyx_mori                  -CTCGCCGCCGACGG-----CTACCAGCGCCGCGTCGCCAGCCTCCGACA
+Drosophila_melanogaster      -GAGCATCGAGGGCAT--GATTAAGGAGGCGGCGGCTGAAGTCCTGCGCA
+Marsupenaeus_japonicus       CATGTATCCTGAAGAGGAGAGTAACTAAGGTACAACTGATGTTACCTGTA
+                                                                              *
+
+Macaca_fascicularis          GTCCAAGAAGGGGCAA---TCTACCTCC----CGCCATAAAAAATTCATG
+Macaca_mulatta               GTCCAAGAAGGGGCAA---TCTACCTCC----CGCCATAAAAAATTCATG
+Homo_sapiens                 GTCCAAAAAGGGTCAG---TCTACCTCC----CGCCATAAAAAACTCATG
+Delphinapterus_leucas        GTCTAAGAAGGGGCAG---TCTCCCTCC----CGCCATAAAAAACTGATG
+Bubalus_bubalis              GTCTAAGAAGAGGCCT---TCTCCCTCC----TGCCATAAAAAACCAATG
+Cricetulus_griseus           GTCCAAGAAGGGCCAG---TCTGCCTCC----CGTCTTAAAAAACTAATG
+Microtus_ochrogaster         GTCCAAGAAGGGCCAG---TCGACCTCC----CGTCATAAAAAACTAATG
+Canis_lupus                  GGCAAAGAAGGGGCAA---TCTACCTCT----CGCCATAAAAAACTGATG
+Mouse_p53                    GCCTA-----GAGCCT---TCCAAGCCT----TG--ATCAAGGAGGAAAG
+Gobiocypris_rarus            GGAAAGAGATGGCCAAACACCTGAGCCCAAA-AGAGGGAAAAAACTAATG
+Danio_rerio                  AGAGA---ATCGTGAATCATCTGAGCCCAAA-CAGGGAAAGAAGCTGATG
+Oryzias_latipes              GCTGAAGAGCAATTAA-----AGAACACATG-CAT-GGAACAATTTGATT
+Bombyx_mori                  GTACATCGACACGC-----TCGACGCCAAAC-CGACGAAACATGCCAGCG
+Drosophila_melanogaster      ATCCCAACCAAGAGAA---TCTACGTCG--C-CATGCCAACAAATTGCTG
+Marsupenaeus_japonicus       TGTTGATATTTTATATATATGTAACTGAAACACATCAACACCAGGTGATC
+                                                                    *          
+
+Macaca_fascicularis          TTCAAGACAGAG---GGGCCTGACTCAGACTGA-----------------
+Macaca_mulatta               TTCAAGACAGAG---GGGCCTGACTCAGACTGA-----------------
+Homo_sapiens                 TTCAAGACAGAA---GGGCCTGACTCAGACTGACATTCTCC----ACTTC
+Delphinapterus_leucas        TTCAAGAGAGAA---GGGCCTGACTCAGACTGA-----------------
+Bubalus_bubalis              CTCAAGAGAGAG---GGGCCTGACTCAGACTGA-----------------
+Cricetulus_griseus           ATCAAGAGAGAG---GGGCCTGACTCGGACTGACTTCCTTCCTAGGCCTC
+Microtus_ochrogaster         ATCAAGAGAGAG---GGGCCTGACTCAGACTGACATCCTCC----GCCTC
+Canis_lupus                  TTCAAGAGAGAA---GGGCCCGACTCAGACTGACTTCCCCT----GCTTC
+Mouse_p53                    CCCAAACTGCTA---GCTCCCATCACTTCATCCCTCCCCTTTTCTGTCTT
+Gobiocypris_rarus            GTAAAGGATGAG---AAGAGCGATTCTGACTAAGACGGCAGTGTGCAGA-
+Danio_rerio                  GTGAAGGACGAAGGAAGAAGCGACTCTGATTAAGGTGATGGGATGCTAAG
+Oryzias_latipes              TTTCTTCTTCTA--------CTTCTTGGTTTCATAAATTACTTTTTTACA
+Bombyx_mori                  AATAGAGACGGTAT-GTGTTTGGAATCGATACGGAACATATCGACGCTTG
+Drosophila_melanogaster      AGCCTTAAGAAA------CGTGCCTACGAGCTGCCATGACTTCTGATCTG
+Marsupenaeus_japonicus       TGCAAGGAAGAGTTTGGCACCATTATGAATTTACAATTGCAGTTGGAATA
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 TTGTTCCCCACTGACAGCCTCCCACCCCCA---TCTCTCCCTCCCCTGCC
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           CTGTCCCCCACCAGCAACTTCCCAACCCC-----CACCTCCTTTCCTGAC
+Microtus_ochrogaster         CTGTCCCCCGTCAGCAACCTCTCATCCCC-----TTCCTCCTTTCCTGCC
+Canis_lupus                  CTGTCCTCCCCCAACACGCACACCCTCAC-----TCTCGTCCTCCTT---
+Mouse_p53                    CCTATAGCTACCTGAAGACCAAGAAGGGC-----CAGTCTACTTCCCGCC
+Gobiocypris_rarus            --AGAAGAAAATGGAGAGTTTTGTTTTTTT---ACTGCCTTTGTTTTGCC
+Danio_rerio                  AGAGAAAGAAACTGGGAGTTTTGCTCTTTTTGGACTGCCTTT--TTTGCT
+Oryzias_latipes              TTTTTTAAAATTTGTACTCTTCTTTGTAA-----CCTATAGTTAATTGGC
+Bombyx_mori                  AAAGGCAAACTTTGTACTTTACAGTAGACT-AATTTAAACTTGAAATACC
+Drosophila_melanogaster      GTCGACAATCTCCCAGGTATCAGATACCTTTGAAATGTGTTGCATCTGTG
+Marsupenaeus_japonicus       AAGATTAACTTAAAGAACTTCACAATCAATCTAGAAGTGTGTTGATAAGA
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 ATTTTGGGTTTTGGGTCTTTGAAC---------CCTTGCT--TGCAATAG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           ATTTTGTCACTTGGGTGCTTGAAC---------CCCGGCT--TGGGTGGA
+Microtus_ochrogaster         ATTTTGTAACTTGGGTGCTTG----------------------GGTTAAT
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    ATAAAAAAACAATGGTCAAGAAAG---------TGGGGCC--TGACTCAG
+Gobiocypris_rarus            TTAATTTGACCAAAACAC----CT---------TGTCATAGAGGGAGCAG
+Danio_rerio                  TTTATTACACCAAAAAAAAAAGCT---------TGTCACA--GGGGTCAT
+Oryzias_latipes              ATGATCAGGATATTTGTAGCGGGG---------GGTCGGCTGGATCACCC
+Bombyx_mori                  TGAAAAAAAATCTATTTTATCGAA---------TCTAGCTGTAGGATTGA
+Drosophila_melanogaster      GGGTATACTACATAGCTATTAGTA---------TCTTAAGTTTGTATTAG
+Marsupenaeus_japonicus       CTTTACATATTGCATTCCTTCAAAGACCTGTTTCACTGTTAGGCAGTAAT
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 GTGTGCGTCAGAAGCACCCAGGACTTCCATTTGCTTTGTCCCGGGGCTCC
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           TCTGTCATCTCTGATATCTGGGGAGGGTGGTGGGAT-ACACCAATACACC
+Microtus_ochrogaster         CCGGTCATCACCGGTATCTGGGGAGGGTAGTGGGA--ATACCAGCTCAGC
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    ACTGA---------------------------------------------
+Gobiocypris_rarus            TTGGTGAATTGCAGAAACGTTGTATTCCCTCAGTCCTGTACATCACGATC
+Danio_rerio                  TTGGGGAACTGC-GATACAT-GTGATCCATTAGTCCTGTTTGTCATGTTT
+Oryzias_latipes              CCCCAAAACGGCGTTTTTTGTTTTTGTACAAGATTTATTGGGATAAAGGT
+Bombyx_mori                  AATTATTTTAATAGACCTAG--AGATACATTTTTTTTGCGCGTCGAATAT
+Drosophila_melanogaster      TCCTTGTTCGTAAGGCGTTTAACGGTGATATTCCCCTTTTGGCATGTTCG
+Marsupenaeus_japonicus       CTTTTATATTTAAGTTTTTAAATACCAGTGTTGAATATTGCAAAAGAAAT
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 ACTGAACAAGTTG-GCCTGCACTGGTGTTTTGTTGTGGGGAGGAGGATGG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           ATCTTAGCTTTTA-GG-ATTCTGGCCATGAGGAAAGGAAGAAAATTCTCA
+Microtus_ochrogaster         TTTTAGGATTCTG-ACCATGAGAGTCTTGAAGAGAGGAAGAAAACTCTTG
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            ATCTTTACTCCAATGGGACCTGTGTAAGTCAGCTGATCCAGAAAAGTTCT
+Danio_rerio                  CTTCTTGTTC----------------ACTCCACTGG-------GACCTTT
+Oryzias_latipes              AATTTGTCCTCAGTATAACAAATAATGAGTAGGGGATAAAACTTCAGTTT
+Bombyx_mori                  AGTTATTGCCTATCAT-TTATGTACAAAGCAGCTATTGTCGCTTAGTCAC
+Drosophila_melanogaster      ATGGCCGAAAAGAAAACATTTTTATATTTTTGATAGTATACTGTTGTTAA
+Marsupenaeus_japonicus       GTTTAGTTTAGGTAAGCATAATTCATTTTAAGCCATTGTTCATAATTTGT
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 GGAGTAGGACATACCAGCTTAGATTTTAAGGTTTTTACTGTGAGGGA-TG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           ATAGGTGGTGTTGGAATTTACAATTGGCCATGTGCAATTGTGAGGCC-CC
+Microtus_ochrogaster         -TTGGTGGGGTTGGAGCTTGCAGTTGGCCGTGTGCTTGGCTGTGTAC-AG
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            GTATGAGTAAGGCTAGTAATAGCTGGGTGCTATAGAAGTGTAGTGCT-CT
+Danio_rerio                  GTT------------------GCTGGACACTG--ATTTTGCAGTGTT-TT
+Oryzias_latipes              GTTCTGTTTTGAGAAATAATAGTGCAGCACTTTGGTTTAATGGACCAATG
+Bombyx_mori                  GTTTGCCTTTCAAGCGTCGATAGACGAATTATTTTTGGCATTGCTAA-AG
+Drosophila_melanogaster      CTGCAGTTCT---ATGTGACTACGTAACTTTTGTCTACCACAACAAACAT
+Marsupenaeus_japonicus       AATCAAGTGTATTTCATTTTCTTCAAAAAGAGATCTTCATTTTCATTAGT
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 TTTGGGAGATGTAAGAAATGTTCTTGCAGTTAAGGGTTAGTTTACAATCA
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           ACCCAATTCTCTAAGAAAGCCATCTGAGTTTACTTTCTCCTGACTTGAA-
+Microtus_ochrogaster         TGGTGAGGCCCCACCCAGT---TCTGAGTTTACTTTCTCCCAACTTGAAC
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            TTCAGCACTGG--AGGAGCAATACTGGCCCTTCATTTTGCAGACCTGATA
+Danio_rerio                  ACCAGCACTGGCGAGGGCTAAGACTAGCCTGACGTTTTACAGACCCGTTA
+Oryzias_latipes              TTTTAGTTCGACACTGACCACACATTTAGAGGCATTTTTGTCTTCCAGTA
+Bombyx_mori                  TCCATGGGCGACGGTAACCACTCACCATCAGGTGGGCCGTAGGCTCGTCT
+Drosophila_melanogaster      ACTCTGTACAAAAAAGCCAAAAGTGAATTTATTAAAGAGTTGTCATATTT
+Marsupenaeus_japonicus       TTTTTTTTTTTCACAGAACATTCCGGTTTATTTGAAATTTGTGATTAAAC
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 GCCACATTCTAGGTAGGGGCCCACTTCACCGTACTAACCAGGGAAGCTGT
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           AGCCACATCTATAAAATGCAGATGAGCATACCTGACTTCTCAGGGTTTGT
+Microtus_ochrogaster         AACCGCATCTATAAAATGCAGATCAGCCTGTCTG-CTCCTCAGGGTTTGT
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            AATCAATGTCCAGCAATGAGGCTTAACCGTGTGTGGAATTTTCTTCTTGT
+Danio_rerio                  AATGAACGTTCAGGAACGAAGTTTACCTGTG------ACTTT--------
+Oryzias_latipes              TGCTTATATTTTATTAT-AATCTTAGTTCTGTATGAGTTTCACACTTATA
+Bombyx_mori                  GCCTACAAGGGCAATAAA--------------------------------
+Drosophila_melanogaster      TGCAAACAT-----------------------------------------
+Marsupenaeus_japonicus       ACATAGTATGTAAGTGCATGACAAAGTGAGAT-TGAATTTGATTCCAAAG
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 CCCTCACTGTTGAATTTTCTCTAACTTCAAGGCCCATATCTGTGAAATGC
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           TGTGTACTTGTGATACTTGTCCCTTCCGCACCATTT-ATTACCTTGTGGC
+Microtus_ochrogaster         T--------GTGATACTTGTCCCTTCCAGACCTTTTTATTACCTTGTGGC
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            TGTAGGTCAGTGCAGGTCACTTTCCACCTAACACTTAGTATCTTCCACTA
+Danio_rerio                  TGTAAATTG-----------------------------------------
+Oryzias_latipes              TATATATATGTGTATATTTTTTGTCATTTGTAA--TGATTTACTTTTTTT
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       CAAATCTGTGTATTGGTATTTTTGTATTTTACAAAATAATTGTTATTGTG
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 TGGCATTTGCACCTACCTCACAGAGTGCATTGTGAGGGTTAATGAAATAA
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           CTGGACTCAGCCCCCTCTGTGAGTGCTGGTTCCTGGC-CCTGTTGGGGGA
+Microtus_ochrogaster         TGGGACTC-GTGCCCCCTCTGAGTG--AGTTCCTGGCACCTGTTGGGGGA
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            AAGGAGTTTGCCACTTTTTTTGAAAATGTAGTTATGCCAGTATTTTGTAA
+Danio_rerio                  --------------------TAATAATGCCAGTATTCGGTTGTTTTGTAA
+Oryzias_latipes              TTTGTACCAAATTCCTTGTTAAATAAAGTTTTTCTGCTCCAGAAAAAAAA
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       TCAAGATAAAGCCATTTGCTTTGGAATAGTGATTGTTTTATATTAGTCAA
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 TGTACATCTGGCCTTGAAACCACCTTTTATTACATGGGGTCTAGAACTTG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           TGGGTTGGTAGCTGCCAGGTCTCTGCTGGCC-AGCGAAATCCTATCCAGC
+Microtus_ochrogaster         TGGGTTGGTAGTTGCCAGGTCTCTGCTGGCCCAGCGAAATCCTATCCAGC
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            CCTGTTGTGTGTTTTGTAACCAGCTTTTTTTAAGGAAAGAGTAT--GAAT
+Danio_rerio                  GCAGCATTTTTTTTTAT-------TTTTATAAAGAAATGAGTATTAGACT
+Oryzias_latipes              AAA-----------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       ATAGAACATTTACTTGATTAATTATGTCCCAGAGAAGATATTATATAAAG
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 ACCCCCTTGAGGGTGCTTGTTCCCTCTCCCTGTTGGTCGGTGGGTTGGTA
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           CACTTGATGGACCCTGGCACCTAAAATGAAATTTCACCCCCCCGATTCG-
+Microtus_ochrogaster         CACTTGTTGGACCCTGGCACCTAAAATGAAATCTCACCCCACCC-TCCAC
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            AATTAGATGAAACAAGCAGCACTGGTTACAAGCCAAAAACTAATAACTAA
+Danio_rerio                  AATTGGAACAAACCATCGGAATTGGTTGCAAGCCGATTAT--GTAATAAA
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       TAGTTAGGTAGGTAGGTGATAGCAAATAGACTTGTTTTGACTGTCAATTC
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 GTTTCTACAGTTGGGCAGCTGGTTAGGTAGAGGGAGTTGTCAAGTCTCTG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         CCTGTAAGATTCTATCTTGGGCTCTCGTAGGGTCTGTATCCACCAAGACC
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            GTAAAAAAAGCAACACTGTATTTTGTATTTGGAATCCTTTTTAAGTTAAT
+Danio_rerio                  AATACCAAAGCAAAACCG--TTTTGTATCTTATATT-TTTTTATGTTAAT
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       TTTATTCTTTACTAGGATCAGTTTCTGTATAATATTTTGAATAAAGGTTG
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 CTGGCCCAGCCAA--ACCCTGTCTGACAACCTCTTGGTGAACCTTAGTAC
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         CGTGTTCTTTCCA--CCCTCGGTTCAGGATCAGTTTCTCTGAACTCTGCC
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            TTGTTCCTATTCATTACAGTTGACGCCATCTTTATATCTTAATGTATGAA
+Danio_rerio                  T--------------ACTGCTGTTCCTATTTTTGTATTTTAGCTAATAAG
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       ACAATAAGAAAAAAAAAAAAAAAAAAAAAAAAAA----------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 CTAAAAGGAAATCTCACCCCATCCCACACCCTGGAGGATTTCATCTCTTG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         TGGCCTTTGTGCATTTACCACCACCCCCTTTCCCTTTTTATACCCCCTTT
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            AGAATACACCAGCTTTGATTTGCCTTGCTAAAAGAGTAGAAGATGGGTCG
+Danio_rerio                  AGAAGCTGCCCTTTATAACACGCTTTT-------------AGAT------
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 TATATGATGATCTGGATCCACCAAGACTTGTTTTATGCTCAGGGTCAATT
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         TATATATCGATCTCTTATTTTACAATAAAATTTTTTGTTAT---------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            AGAAGGTTATTAAACCTTTACATTGGTCTGAATATCATATTCTGCCATTT
+Danio_rerio                  ----------------------TTAGTACAACCATTGTTCTTTTTCAATT
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 TCTTTTTTCTTTTTTTTTTTTTTTTTCTTTTTCTTTGAGACTGGGTCTCG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            GAAGTACTACTTGATTTACTCCTATTATTTGTTGTTTTGAGTAAGATGGT
+Danio_rerio                  GAAGTAGTTGTTGATTTACTCTTGTGATT-GTTGTT--GAGTAATGTGGC
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 CTTTGTTGCCCAGGCTGGAGTGGAGTGGCGTGATCTTGGCTTACTGCAGC
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            TCAGATTAAACTCATAACTGGCCAGTCAGGTTTACCATG---------AA
+Danio_rerio                  ACAGAT-AAGCTCATAAGTGGCCAGTCTGTTTTGACATGTGCTTGTGCAA
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 CTTTGCCTCCCCGGCTCGAGCAGTCCTGCCTCAGCCTCCGGAGTAGCTGG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            ATGACTGTTGA---GGTGT---AGTGGTTATGGGTTGGATGCTTAACCT-
+Danio_rerio                  ATGGTTATGGATTGGATGTCTAAATATGAGCAAATGAAATGTCAAATACT
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 GACCACAGGTTCATGCCACCATGGCCAGCCAACTTTTGCATGTTTTGTAG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            -----CATGTTTGAGTCCCTCCTGGTAACCTTGATAAAACTTTTTCTACT
+Danio_rerio                  CAGGGCATGTACAAGTCCCTCCTGGAAATCTTGATAAAACTCTT-CTACT
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 AGATGGGGTCTCACAGTGTTGCCCAGGCTGGTCTCAAACTCCTGGGCTCA
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            GTTCTAATTTGCTATAGATTTT-------TGTTTCCTTTTGTTACTGTAG
+Danio_rerio                  GTTTTA-CCTGCTATAGATTTTATGCTGGTTTTGTTTCTTATTACTGTTT
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 GGCGATCCACCTGTCTCAGCCTCCCAGAGTGCTGGGATTACAATTGTGAG
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            ACTTTTATTTACCTTTATACATATATATATACACATGCATTTATTTGTAC
+Danio_rerio                  ACACGCATTTGCCTTT---TATAAATATATAAGCGTGCATTTATTTGTAG
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 CCACCACGTCCAGCTGGAAGGGTCAACATCTTTTACATTCTGCAAGCACA
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            CTGG------------TGATTTTTTTTTTTAAATACATGCTTTTTAAAAA
+Danio_rerio                  CTAGCTGAATCATTTATAATTTTTCTTTTTAAGAGAAATGTTTTAAAATA
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 TCTGCATTTTCACCCCACCCTTCCCCTCCTTCTCCCTTTTTATATCCCAT
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            -----TTCAAAAAAAAAAAA------------------------------
+Danio_rerio                  CACTCTTTAAAAAAAAAAAAAAAAAAAAAAAAA-----------------
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          --------------------------------------------------
+Macaca_mulatta               --------------------------------------------------
+Homo_sapiens                 TTTTATATCGATCTCTTATTTTACAATAAAACTTTGCTGCCAAAAAAAAA
+Delphinapterus_leucas        --------------------------------------------------
+Bubalus_bubalis              --------------------------------------------------
+Cricetulus_griseus           --------------------------------------------------
+Microtus_ochrogaster         --------------------------------------------------
+Canis_lupus                  --------------------------------------------------
+Mouse_p53                    --------------------------------------------------
+Gobiocypris_rarus            --------------------------------------------------
+Danio_rerio                  --------------------------------------------------
+Oryzias_latipes              --------------------------------------------------
+Bombyx_mori                  --------------------------------------------------
+Drosophila_melanogaster      --------------------------------------------------
+Marsupenaeus_japonicus       --------------------------------------------------
+                                                                               
+
+Macaca_fascicularis          -----------
+Macaca_mulatta               -----------
+Homo_sapiens                 AAAAAAAAAAA
+Delphinapterus_leucas        -----------
+Bubalus_bubalis              -----------
+Cricetulus_griseus           -----------
+Microtus_ochrogaster         -----------
+Canis_lupus                  -----------
+Mouse_p53                    -----------
+Gobiocypris_rarus            -----------
+Danio_rerio                  -----------
+Oryzias_latipes              -----------
+Bombyx_mori                  -----------
+Drosophila_melanogaster      -----------
+Marsupenaeus_japonicus       -----------
+                                        

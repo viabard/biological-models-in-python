@@ -1,0 +1,30 @@
+Shape of CSV: (120108, 15)
+
+Data types: 
+time          object
+latitude     float64
+longitude    float64
+depth        float64
+mag          float64
+magType       object
+nst          float64
+gap          float64
+dmin         float64
+rms          float64
+net           object
+id            object
+updated       object
+place         object
+type          object
+dtype: object
+
+Correlations: 
+           latitude  longitude     depth       mag       nst       gap      dmin       rms
+latitude   1.000000  -0.464706 -0.240871 -0.567213 -0.052063  0.033028 -0.503594 -0.145002
+longitude -0.464706   1.000000  0.194335  0.606032 -0.091194 -0.015330  0.365135  0.326345
+depth     -0.240871   0.194335  1.000000  0.370861 -0.004841 -0.000826  0.241183  0.278136
+mag       -0.567213   0.606032  0.370861  1.000000  0.277184 -0.040261  0.505859  0.641415
+nst       -0.052063  -0.091194 -0.004841  0.277184  1.000000 -0.502949 -0.217388  0.006160
+gap        0.033028  -0.015330 -0.000826 -0.040261 -0.502949  1.000000 -0.008811 -0.046334
+dmin      -0.503594   0.365135  0.241183  0.505859 -0.217388 -0.008811  1.000000  0.425653
+rms       -0.145002   0.326345  0.278136  0.641415  0.006160 -0.046334  0.425653  1.000000
