@@ -100,7 +100,7 @@ print("SECTION 7 ---------------------------")
 #using the os module
 import os
 cd = os.getcwd()
-os.chdir('.')
+os.chdir(r'\.')
 print(os.listdir())
 os.chdir(cd)
 print(os.chdir(cd))
